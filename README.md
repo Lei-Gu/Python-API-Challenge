@@ -27,7 +27,9 @@ The process must:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+
+
+## Part II - VacationPy
 
 Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
